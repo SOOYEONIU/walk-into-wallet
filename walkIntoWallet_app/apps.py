@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class WalkintowalletConfig(AppConfig):
+class WalkintowalletAppConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'walkIntoWallet'
+    name = 'walkIntoWallet_app'
