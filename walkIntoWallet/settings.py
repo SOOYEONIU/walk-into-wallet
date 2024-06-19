@@ -77,7 +77,6 @@ WSGI_APPLICATION = 'walkIntoWallet.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        # 'NAME': BASE_DIR / 'db.sqlite3',
         'NAME': 'walk_into_wallet',
         'USER': 'root',
         'PASSWORD': '19990823',
